@@ -20,7 +20,7 @@ Site em um Desktop:
 
 Site em um dispositivo menor, como por exemplo um celular:
 <div>
-  <img src="assets/img/design-responsivo-projeto-portfólio.png" alt="Site do Portfólio em um dispositivo menor, como por exemplo um celular">
+  <img src="assets/img/design-responsivo-projeto-portfólio.png" height="30px" alt="Site do Portfólio em um dispositivo menor, como por exemplo um celular">
 </div>
 
 - Venha ver como ficou o projeto acessando [aqui nesse link do GithubPages](https://github.com/henriborgs/PROJETO-PORTFOLIO)
