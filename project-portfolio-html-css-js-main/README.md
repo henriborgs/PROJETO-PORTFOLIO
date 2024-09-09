@@ -13,14 +13,14 @@ Nesse projeto coloquei minhas informações profissionais e alguns projetos em d
 
 Site em um Desktop:
 <div>
-  <img src="assets/img/projeto-portfolio.PNG" alt="Site do Discord em um Desktop">
+  <img src="assets/img/design-responsivo-projeto-portfólio-desktop.png" alt="Site do Portfólio em um Desktop">
 </div>
 
 <br>
 
 Site em um dispositivo menor, como por exemplo um celular:
 <div>
-  <img src="assets/img/projeto-portfolio-responsive.PNG" alt="Site do Discord em um dispositivo menor, como por exemplo um celular">
+  <img src="assets/img/design-responsivo-projeto-portfólio.png" alt="Site do Portfólio em um dispositivo menor, como por exemplo um celular">
 </div>
 
 - Venha ver como ficou o projeto acessando [aqui nesse link do GithubPages](https://marcoswinther.github.io/project-portfolio-html-css-js/)
